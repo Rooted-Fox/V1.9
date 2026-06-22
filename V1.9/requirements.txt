@@ -1,0 +1,9 @@
+anthropic>=0.40.0  # if importing AnthropicFoundry fails for Azure provider use, run: pip install -U anthropic
+pydantic>=2.6
+fastapi>=0.110
+uvicorn>=0.29
+typer>=0.12
+rich>=13.7
+requests>=2.31
+python-dotenv>=1.0
+pyyaml>=6.0
